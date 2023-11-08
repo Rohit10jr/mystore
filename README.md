@@ -37,7 +37,7 @@ Follow these steps to get your Django E-Commerce Project up and running:
 
 1. Clone the repository:
 ```
-git clone https://github.com/Rohit10jr/Ecommerce-site.git
+git clone https://github.com/Rohit10jr/mystore.git
 ```  
 2. Create a virtual environment and activate it:
 ```
