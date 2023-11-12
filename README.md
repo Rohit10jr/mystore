@@ -6,7 +6,10 @@
 
 Welcome to my E-Commerce Project, a feature-rich, customizable Django-based online shopping platform. This project empowers you to build and launch your e-commerce store with ease.
 
-![E-Commerce Project Screenshot](/screenshot.png)
+![Screenshot (550)](https://github.com/Rohit10jr/mystore/assets/130643902/e3380096-e8cc-45d1-aa61-7633c41a5311)
+<br>
+<br>
+![Screenshot (551)](https://github.com/Rohit10jr/mystore/assets/130643902/0146a52c-38f7-47c2-9935-a0d16eb7d6bf)
 
 ## Table of Contents
 
